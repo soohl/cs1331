@@ -1,7 +1,6 @@
 .DS_Store
 Animal/
 Inheritance/
-.idea/*
+.idea/
 out/
-*.iml
 src/
