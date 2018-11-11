@@ -1,6 +1,6 @@
 .DS_Store
-Animal/
-Inheritance/
+not_include/
 .idea/
 out/
 src/
+*.iml/
