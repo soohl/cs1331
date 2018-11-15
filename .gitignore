@@ -2,5 +2,5 @@
 not_include/
 .idea/
 out/
-src/
-*.iml/
+*.iml
+*.class
