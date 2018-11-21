@@ -1,3 +1,4 @@
+
 /**
  * TransactionType enum for ATM Transactions.
  *

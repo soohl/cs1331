@@ -4,3 +4,13 @@ not_include/
 out/
 *.iml
 *.class
+
+.gradle/
+build.gradle
+gradle/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+
+test/
