@@ -6,11 +6,9 @@ out/
 *.class
 
 .gradle/
-build.gradle
+settings.gradle
 gradle/
 gradle/
 gradlew
 gradlew.bat
-settings.gradle
-
 test/
